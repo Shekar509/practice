@@ -1,0 +1,14 @@
+div {
+    float: left;
+    padding: 20px;
+    margin: 10px;
+}
+a {
+    color: red;
+    float: left;
+    margin: 10px;
+}
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: oblique;
+}
